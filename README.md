@@ -1,4 +1,5 @@
 ## Hey there 👋
 
-I'm Zac, a first year CS student based in Malaysia.
+I'm Zac,  
+a first year CS student based in Malaysia.
 
