@@ -1,4 +1,4 @@
-**Hey there 👋**  
+**Hi👋**  
 I'm Zac, a first year CS student based in Malaysia.
 
 **Portfolio**  
