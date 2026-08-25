@@ -8,8 +8,6 @@ Currently learning data analytics, contribution activity at an all time low besi
 
 <img src="./kyubey.gif" height="40" alt="Kyubey" />
 
-<br><br>
-
 ### Connect & Portfolio
 
 * **Portfolio:** [junzac.com](https://junzac.com/)
