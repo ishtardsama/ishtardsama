@@ -14,8 +14,8 @@
 <p align="center">Currently learning data analytics, contribution activity at an all time low besides school assignments...</p>
 
 <p align="center">
-  <strong><a href="https://junzac.com">Website</a></strong>
-  <strong><a href="https://www.linkedin.com/in/choongjunzac/"></a></strong> |
+  <strong><a href="https://junzac.com">Website</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/choongjunzac/">LinkedIn</a></strong> |
   <strong><a href="https://www.instagram.com/zzzaaacccc/">Instagram</a></strong> |
   <strong><a href="https://discord.gg/264745027975118859">Discord</a></strong> |
   <strong><a href="mailto:choongjunza@gmail.com">Gmail</a></strong>
