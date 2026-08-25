@@ -14,7 +14,7 @@
 <p align="center">Currently learning data analytics, contribution activity at an all time low besides school assignments...</p>
 
 
-<h1 align="center">Connect w me.</a>!</h1>
+<h1 align="center">Connect w me</a>!</h1>
 <p align="center">
 <p align="center">
   <strong><a href="https://junzac.com">Website</a></strong> |
