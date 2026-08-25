@@ -11,7 +11,7 @@
 <h3 align="center">a second year CS student based in Malaysia.</h3>
 
 <p align="center">Been working on some IoT stuff for the past year but lowkey got bored of that.  </p>
-Currently learning data analytics, contribution activity at an all time low besides school assignments...</p>
+<p align="center">Currently learning data analytics, contribution activity at an all time low besides school assignments...</p>
 
 <p align="center">
   <strong><a href="https://junzac.com">Website</a></strong> |
