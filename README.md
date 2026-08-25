@@ -20,4 +20,5 @@
   <strong><a href="https://discord.gg/264745027975118859">Discord</a></strong> |
   <strong><a href="mailto:choongjunza@gmail.com">Gmail</a></strong>
 </p>
+<p align="center">Feel free to reach out to offer feedback regarding my projects or just to chat. ( i won't bite )</p>
 
