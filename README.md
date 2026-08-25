@@ -4,11 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">Zac</a>!</h1>
+<h1 align="center">Hi, i'm <a href="https://junzac.com">Zac</a>!</h1>
 <p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
-  </a>
+
 </p>
 <h3 align="center">a second year CS student based in Malaysia.</h3>
 
