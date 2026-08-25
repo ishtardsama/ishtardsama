@@ -13,8 +13,9 @@
 <p align="center">Been working on some IoT stuff for the past year but lowkey got bored of that.  </p>
 <p align="center">Currently learning data analytics, contribution activity at an all time low besides school assignments...</p>
 
-<p align="center">
 
+<h1 align="center">Connect w me.</a>!</h1>
+<p align="center">
 <p align="center">
   <strong><a href="https://junzac.com">Website</a></strong> |
   <strong><a href="https://www.linkedin.com/in/choongjunzac/">LinkedIn</a></strong> |
