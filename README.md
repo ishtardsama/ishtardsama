@@ -8,7 +8,7 @@
 <p align="center">
 
 </p>
-<h3 align="center">a second year CS student based in Malaysia.</h3>
+<h3 align="center">Second year CS student based in Malaysia.</h3>
 
 <p align="center">Been working on some IoT stuff for the past year but lowkey got bored of that.  </p>
 <p align="center">Currently learning data analytics, contribution activity at an all time low besides school assignments...</p>
